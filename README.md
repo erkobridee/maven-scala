@@ -32,4 +32,10 @@ Alterações
 
 * [v1](https://github.com/erkobridee/maven-scala/tree/v1) 
   * versão inicial funcional
+  * Scala 2.8.0
+
 * v2 - ***versão atual***
+  * Scala 2.9.1, configuração do `pom.xml` conforme a dica do [gist](https://gist.github.com/1196756) 
+  * **Observação:** realizei o teste com a versão do Scala 2.9.2, porém não funcionou as dependências, com isso mantive a versão 2.9.1
+
+
