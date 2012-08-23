@@ -7,6 +7,8 @@
 **/.Spotlight-V100
 **/.Trashes
 
+.cache
+
 # use glob syntax.
 syntax: glob
 *.ser
