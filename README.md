@@ -26,3 +26,10 @@ Teste do Projeto
 ----------------
 
 Utilize o comando: `mvn clean install`
+
+Alterações
+----------
+
+* [v1](https://github.com/erkobridee/maven-scala/tree/v1) 
+  * versão inicial funcional
+* v2 - ***versão atual***
