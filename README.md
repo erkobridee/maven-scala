@@ -20,7 +20,7 @@ Utilizado neste projeto
 * Ambiente de desenvolvimento
   * [Maven](http://maven.apache.org/) 3
   * [Java](http://www.java.com/) 1.6+
-  * [Scala](http://www.scala-lang.org/) 2.8.0
+  * [Scala](http://www.scala-lang.org/) 2.9.1
 
 Teste do Projeto
 ----------------
