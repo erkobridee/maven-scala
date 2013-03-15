@@ -59,7 +59,7 @@ Material de apoio para desenvolvimento com Scala
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Scala School](http://twitter.github.com/scala_school/)
 * [Effective Scala](http://twitter.github.com/effectivescala/)
-
+* [Scala Documentation](http://docs.scala-lang.org/index.html)
 
 Alterações
 ----------
