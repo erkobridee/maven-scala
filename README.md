@@ -78,21 +78,4 @@ Feito o download/clone do projeto para a sua máquina local, realize o respectiv
 
 ## Alterações
 
-* [v1](https://github.com/erkobridee/maven-scala/tree/v1) 
-  * versão inicial funcional
-  * Scala 2.8.0
-
-* [v2](https://github.com/erkobridee/maven-scala/tree/v2)
-  * Scala 2.9.1, configuração do `pom.xml` conforme a dica do [gist](https://gist.github.com/1196756) 
-  * **Observações:** 
-  	* realizei o teste com a versão do Scala 2.9.2, porém não funcionou as dependências, com isso mantive a versão 2.9.1
-  	* Como o Maven está gerenciando a compilação, não é necessário ter o Scala visivel no *PATH* da máquina de desenvolvimento
-  	
-* v3 - ***versão atual***
-  * Incluido o suporte para importar o projeto no Eclipse e utilizar o Scala IDE 2.0.2 plugin (**Observação:** essa versão do plugin exige que o Scala seja a versão 2.9+) 
-  * Necessário aumentar a quantidade de memória RAM utilizada pelo Eclipse, conforme descrito nesse [link](http://wiki.eclipse.org/FAQ_How_do_I_increase_the_heap_size_available_to_Eclipse%3F)
-  
-
-
-
-
+* Descrições de cada versão em [releases](https://github.com/erkobridee/maven-scala/releases)
